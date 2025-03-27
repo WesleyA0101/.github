@@ -4,14 +4,13 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Seja+Curioso!;Explore+Sem+Limites!;Liberdade+é+o+Nosso+Propósito!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Будь+любознательным!;Исследуй+без+границ!;Свобода+—+наша+цель!" />
 </div>
 
 ---
 
-## 🛜 Redes
+## 🛜 Социальные сети
 
 [![YouTube](https://img.shields.io/badge/YouTube-SysOverload0101-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@SysOverload0101)
 
@@ -27,7 +26,7 @@
 
 ---
 
-## 🏴‍☠️ Fundadores
+## 🏴‍☠️ Основатели
 
 > 👨‍💻 **[VictorH8](https://github.com/VictorH8)**
 > 
@@ -35,19 +34,18 @@
 
 ---
 
-## 📌 Sobre Nós
+## 📌 О нас
 
 [root@SysOverload0101]# whoami
 
+Мы больше, чем просто организация — мы концепция. Наша философия основана на цифровой свободе, открытом программном обеспечении и обмене знаниями. Здесь инновации и сотрудничество — наша сила. Если что-то можно разобрать, это можно улучшить.
 
-Somos mais do que uma organização — somos um conceito. Nossa filosofia é baseada na liberdade digital, no software livre e no compartilhamento de conhecimento. Aqui, inovação e colaboração são nossas maiores forças. Se algo pode ser desmontado, pode ser melhorado. 
-
-**Código livre, sem correntes, sem filtros, sem concessões.**  
+**Свободный код, без цепей, без фильтров, без компромиссов.**
 
 ---
 <div align="center">
   
-## 🛠 Tecnologias que Utilizamos
+## 🛠 Технологии, которые мы используем
 
 </div>
 
@@ -72,10 +70,10 @@ Somos mais do que uma organização — somos um conceito. Nossa filosofia é ba
   </a>
 </div>
 
-> *"Quando você utiliza **software livre**, você está no controle. Quando você usa **software proprietário**, o software está no controle de você."*  
-> — **Richard Stallman**  
+> *"Когда ты используешь **открытое ПО**, ты контролируешь его. Когда ты используешь **проприетарное ПО**, оно контролирует тебя."*  
+> — **Richard Stallman**
 
 ---
 
-📢 **Junte-se a nós e contribua para um mundo digital mais livre e acessível!**
+📢 **Присоединяйтесь к нам и вносите вклад в более свободный и доступный цифровой мир!**
 

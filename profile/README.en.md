@@ -4,14 +4,13 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Seja+Curioso!;Explore+Sem+Limites!;Liberdade+é+o+Nosso+Propósito!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Be+Curious!;Explore+Without+Limits!;Freedom+is+Our+Purpose!" />
 </div>
 
 ---
 
-## 🛜 Redes
+## 🛜 Networks
 
 [![YouTube](https://img.shields.io/badge/YouTube-SysOverload0101-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@SysOverload0101)
 
@@ -27,27 +26,26 @@
 
 ---
 
-## 🏴‍☠️ Fundadores
+## 🏴‍☠️ Founders
 
 > 👨‍💻 **[VictorH8](https://github.com/VictorH8)**
-> 
+>
 > 👨‍💻 **[WesleyA0101](https://github.com/WesleyA0101)**
 
 ---
 
-## 📌 Sobre Nós
+## 📌 About Us
 
 [root@SysOverload0101]# whoami
 
+We are more than an organization — we are a concept. Our philosophy is based on digital freedom, open-source software, and knowledge sharing. Here, innovation and collaboration are our greatest strengths. If something can be dismantled, it can be improved.
 
-Somos mais do que uma organização — somos um conceito. Nossa filosofia é baseada na liberdade digital, no software livre e no compartilhamento de conhecimento. Aqui, inovação e colaboração são nossas maiores forças. Se algo pode ser desmontado, pode ser melhorado. 
-
-**Código livre, sem correntes, sem filtros, sem concessões.**  
+**Free code, no chains, no filters, no concessions.**  
 
 ---
 <div align="center">
   
-## 🛠 Tecnologias que Utilizamos
+## 🛠 Technologies We Use
 
 </div>
 
@@ -72,10 +70,11 @@ Somos mais do que uma organização — somos um conceito. Nossa filosofia é ba
   </a>
 </div>
 
-> *"Quando você utiliza **software livre**, você está no controle. Quando você usa **software proprietário**, o software está no controle de você."*  
+> *"When you use **free software**, you are in control. When you use **proprietary software**, the software controls you."*  
 > — **Richard Stallman**  
 
 ---
 
-📢 **Junte-se a nós e contribua para um mundo digital mais livre e acessível!**
+📢 **Join us and contribute to a freer and more accessible digital world!**
+
 

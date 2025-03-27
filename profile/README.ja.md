@@ -4,14 +4,13 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Seja+Curioso!;Explore+Sem+Limites!;Liberdade+é+o+Nosso+Propósito!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=好奇心を持て!;限界を越えて探索せ!;自由は私たちの目的だ!" />
 </div>
 
 ---
 
-## 🛜 Redes
+## 🛜 ネットワーク
 
 [![YouTube](https://img.shields.io/badge/YouTube-SysOverload0101-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@SysOverload0101)
 
@@ -27,7 +26,7 @@
 
 ---
 
-## 🏴‍☠️ Fundadores
+## 🏴‍☠️ 設立者
 
 > 👨‍💻 **[VictorH8](https://github.com/VictorH8)**
 > 
@@ -35,19 +34,18 @@
 
 ---
 
-## 📌 Sobre Nós
+## 📌 私たちについて
 
 [root@SysOverload0101]# whoami
 
+私たちは組織ではなく、コンセプトです。私たちの哲学は、デジタルの自由、オープンソースソフト、そして知識の共有に基づいています。ここでは、イノベーションとコラボレーションが私たちの最大の強みです。何かが分解できるなら、改善できます。
 
-Somos mais do que uma organização — somos um conceito. Nossa filosofia é baseada na liberdade digital, no software livre e no compartilhamento de conhecimento. Aqui, inovação e colaboração são nossas maiores forças. Se algo pode ser desmontado, pode ser melhorado. 
-
-**Código livre, sem correntes, sem filtros, sem concessões.**  
+**フリーコード、束縛なし、フィルターなし、譲渡なし。**  
 
 ---
 <div align="center">
   
-## 🛠 Tecnologias que Utilizamos
+## 🛠 私たちが使用する技術
 
 </div>
 
@@ -72,10 +70,11 @@ Somos mais do que uma organização — somos um conceito. Nossa filosofia é ba
   </a>
 </div>
 
-> *"Quando você utiliza **software livre**, você está no controle. Quando você usa **software proprietário**, o software está no controle de você."*  
-> — **Richard Stallman**  
+> *"**フリーソフト**を使うとき、あなたが制御している。**プロプライエタリソフト**を使うとき、ソフトウェアがあなたを制御している。"*  
+> — **リチャード・ストールマン**  
 
 ---
 
-📢 **Junte-se a nós e contribua para um mundo digital mais livre e acessível!**
+📢 **私たちと一緒に、より自由でアクセスの良いデジタル世界をつくり上げましょう!**
+
 

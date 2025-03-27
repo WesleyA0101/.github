@@ -4,14 +4,13 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Seja+Curioso!;Explore+Sem+Limites!;Liberdade+é+o+Nosso+Propósito!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=保持好奇心!;无限探索!;自由是我们的目标!" />
 </div>
 
 ---
 
-## 🛜 Redes
+## 🛜 社交媒体
 
 [![YouTube](https://img.shields.io/badge/YouTube-SysOverload0101-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@SysOverload0101)
 
@@ -27,7 +26,7 @@
 
 ---
 
-## 🏴‍☠️ Fundadores
+## 🏴‍☠️ 创始人
 
 > 👨‍💻 **[VictorH8](https://github.com/VictorH8)**
 > 
@@ -35,19 +34,18 @@
 
 ---
 
-## 📌 Sobre Nós
+## 📌 关于我们
 
 [root@SysOverload0101]# whoami
 
+我们不仅仅是一个组织——我们是一个理念。我们的哲学基于数字自由、开源软件和知识共享。在这里，创新和合作是我们的核心力量。如果某些东西可以被拆解，它就可以被改进。
 
-Somos mais do que uma organização — somos um conceito. Nossa filosofia é baseada na liberdade digital, no software livre e no compartilhamento de conhecimento. Aqui, inovação e colaboração são nossas maiores forças. Se algo pode ser desmontado, pode ser melhorado. 
-
-**Código livre, sem correntes, sem filtros, sem concessões.**  
+**自由代码，无束缚，无过滤，无妥协。**
 
 ---
 <div align="center">
   
-## 🛠 Tecnologias que Utilizamos
+## 🛠 我们使用的技术
 
 </div>
 
@@ -72,10 +70,10 @@ Somos mais do que uma organização — somos um conceito. Nossa filosofia é ba
   </a>
 </div>
 
-> *"Quando você utiliza **software livre**, você está no controle. Quando você usa **software proprietário**, o software está no controle de você."*  
-> — **Richard Stallman**  
+> *"使用**开源软件**，你掌控一切。使用**专有软件**，软件掌控你。"*  
+> — **Richard Stallman**
 
 ---
 
-📢 **Junte-se a nós e contribua para um mundo digital mais livre e acessível!**
+📢 **加入我们，为更自由和更开放的数字世界贡献力量！**
 
