@@ -11,6 +11,12 @@
 
 ---
 
+## 🛜 Redes
+
+[![YouTube](https://img.shields.io/badge/YouTube-SysOverload0101-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@SysOverload0101)
+
+---
+
 ## 🏴‍☠️ Fundadores
 
 > 👨‍💻 **[VictorH8](https://github.com/VictorH8)**
