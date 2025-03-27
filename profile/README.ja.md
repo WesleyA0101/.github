@@ -16,6 +16,10 @@
 
 ---
 
+<div align="center">
+
+## 🌐 翻訳
+  
 <h4 align="center">
   <a href="./README.md">🇧🇷 Português</a> |
   <a href="./README.en.md">🇺🇸 English</a> |
@@ -23,6 +27,8 @@
   <a href="./README.ja.md">🇯🇵 日本語</a>  |
   <a href="./README.ru.md">🇷🇺 русский</a>
 </h4>
+
+</div>
 
 ---
 
