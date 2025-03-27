@@ -18,6 +18,9 @@
 ---
 
 <h4 align="center">
+
+   ## 🌐 Traduções   
+
   <a href="./README.md">🇧🇷 Português</a> |
   <a href="./README.en.md">🇺🇸 English</a> |
   <a href="./README.zh.md">🇨🇳 简体中文</a> |
